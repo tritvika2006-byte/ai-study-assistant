@@ -38,13 +38,16 @@ Built using Flutter + OpenRouter API.
 ## Screenshots
 
 ### Home Screen
-(Add screenshot here)
+![Home Screen](assets/screenshots/home_screen.png)
 
-### Quiz Generator
-(Add screenshot here)
+### Quiz Generator Screen
+![Quiz Screen](assets/screenshots/quiz.png)
 
-### AI Summary
-(Add screenshot here)
+### AI Summary Screen
+![Summary Screen](assets/screenshots/summary.png)
+
+### Ask AI Screen
+![Ask AI](assets/screenshots/ask_ai.png)
 
 ---
 

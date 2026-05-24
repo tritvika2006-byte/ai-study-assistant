@@ -3,7 +3,7 @@ import 'package:http/http.dart' as http;
 
 class GeminiService {
 
-  final String apiKey = 'paste-your-key-here';
+  final String apiKey = 'paste-api-key';
 
   Future<String> generateResponse(String prompt) async {
 
